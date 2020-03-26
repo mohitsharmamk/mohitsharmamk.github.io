@@ -1,0 +1,205 @@
+.bd
+{
+	background-color: blue;
+}
+
+.bg
+{
+	background-color: red;
+}
+
+/*  table code */
+.bord{
+
+	border: 1px solid red;
+}
+/* card code */
+.size
+{
+	width: 300px;
+}
+.margin
+{
+	margin: 50px;
+}
+.excardcolor{
+	background-color: #333333;
+}
+
+.eximgsize
+{
+	width: 170px;
+	height: 170px;
+}
+/* end of card color*/
+/*start caresoul code */
+.imgcarousel
+{
+	width: 100%;
+	height: 500px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon
+{
+  width: 30px;
+  height: 30px;
+  
+}
+.color
+{ 
+  color: blue;
+ }
+/*end caresoul code */
+
+.imgtrnsfom{border-radius: 280px;
+                   width: 240px;
+	               height: 200px;
+	              
+	               }
+.imgtrnsfom1{border-radius: 250px;
+                   width: 200;
+	               height: 200px;
+	               padding: 10px;
+	               padding-top: 0px;
+	               margin: 10px;
+
+	              
+	               }	
+/*grid system custom css*/
+.box{
+	   
+        border: 1px solid red;}
+.cborder{
+         
+	      border: 3px solid ;}
+.xlborder1{
+         
+	      border: 3px solid blue;}	
+.xlborder2{
+         
+	      border: 3px solid yellow ;}	
+.xlborder3{
+         
+	      border: 3px solid pink;}	
+.xlborder4{
+         
+	      border: 3px solid purple;}	
+.xlborder5{
+         
+	      border: 3px solid red;}
+.xlborder6{
+         
+	      border: 3px solid black;}	      		      	      	      	            
+/*
+............form code ............ */
+.marginform{margin-top:45px; }
+.bodyimg{
+    
+	background: url(image/img4.jpg);
+	background-size: cover; }
+
+	/*
+............booking  code ............ */
+
+.bodyimg1{
+    
+	background: url(image/bgimg5.jpg);
+	background-size: cover; 
+
+  }
+  .personalcolor{color: #f56200;}
+  .hrtag{color: red; border:5px solid red;}
+   .exulcolor
+   { 
+   	 color: red;
+     font-weight: 50px;
+    }
+
+  .ckeckbox
+  {
+  	width: 30px;
+  	height: 30px;
+  } 
+
+  .ckeckbox1
+  {
+  	width: 20px;
+  	height: 20px;
+  }  
+  
+
+   
+
+    /* navbar code*/
+
+.exnavcolor{background-color: #2691cf;}
+.exnavcolor li a{color: red;}
+.exnavcolor li a:hover{background-color :black; }  
+
+/*  front page base code*/
+.bgcolor{background-color:#000000;}
+.textcolor{color: green;}
+.imgset{width: 50px;height: 50px;}
+
+/*  ............reach us  code......... */ 
+.divborder{border-radius: 50%;
+            border: 4px solid white;
+            height: 170px;
+            width: 170px;
+           background-color: #2691cf;}
+.divreachus{ background-color: #2691cf;}           
+
+.divborder:hover{background-color :white;
+ }
+.fontsize{font-size: 60px;
+          font-weight: bold;}
+.pading{padding-left: 100px;}
+.hrcolor{ background-color: white; }
+
+
+/* just for practice code */
+.img{background: url(image/ac.jpg);
+	background-size: cover;
+
+    }
+
+
+/* about us code  */
+.divbg{background-color: #f56200;}
+.ecolor{color: #f56200;}
+.divheight{height: 70px;}
+.textbold{font-weight: 50px; font-size: 17px;}
+
+
+/* non ac */
+.imgset{width: 280px; height: 180px;}
+
+
+/*  ac room  */
+.dborder{border: 2px solid black;
+ 
+         height: 300px;}
+
+ .acimgset{
+ 	width: 100%;
+ 	height: 200px;
+ } 
+ .headcolor{color: #f56200;}
+ .subhead{color: green;}       
+
+
+/*  font awesome   */
+.fontcolor{ color: green; }
+.fontcolor:hover{color: #2691cf;}
+
+.padding1{padding: 55px;}
+
+/* restorent code*/
+
+.size{
+	width: 100%;
+	height: 200px;
+}
+.fontsize
+{
+	font-size: 15px;
+}
